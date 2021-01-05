@@ -1,5 +1,5 @@
 # Morphological Algorithms
-This repository contain few .ipynb files coded with Python programation language which the aim are explained in the .pdf file rapport and the utilisation mode is presented in the README.txt.
+This repository contain few .ipynb files coded with Python programation language which the aim are explained in the .pdf file rapport and the utilisation mode is presented in the README.md
 
 All the source code is in the src folder and all the code files are autonomous they can run and work with only the code they contained.
 
