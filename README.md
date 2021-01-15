@@ -7,6 +7,7 @@ The three algorithms are respectively;
   - The Random Tree Generator.
   - The Persistent Entropy Quantifier.
 And are disponible in the /src folder.
+The persistent entropy quantfier algorithm is disponible under 2 versions called respectively: "Entropy with Focus" and "Entropy with Weight" which are disponible in two different source files. These two versions differ by the parser function used, see the report for more information.
 
 ----------------------
 Command Line Arguments
